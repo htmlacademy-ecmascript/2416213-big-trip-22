@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Даниил Тюкин](https://up.htmlacademy.ru/ecmascript/22/user/2416213).
-* Наставник: [Максим Иванов] (https://htmlacademy.ru/profile/id342945).
+* Наставник: [Максим Иванов](https://htmlacademy.ru/profile/id342945).
 
 ---
 
